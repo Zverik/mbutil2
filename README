@@ -1,0 +1,4 @@
+MBUtil 2: a tool for creating, reading and compressing MBTiles
+Loosely based on original mapbox-mbutil
+
+Run it with -h key to see help.
